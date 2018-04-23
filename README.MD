@@ -3,18 +3,7 @@ Deliverable: the read.me
 ==================================
 
 * As much as I would like to continue, I timed this and already spent around 12 hours of work in the exercise (including reading and trying to understand the paper).
-* The exercise was developed in python, in a jupyter notebook and used the following libraries:
-
-- pandas
-- numpy
-- matplotlib
-- re
-- sklearn
-- collections
-- string
-- urllib
-- wordcloud
-- other minor python libraries
+* The exercise was developed in python, in a jupyter notebook and used the following libraries: pandas, numpy, matplotlib, re, sklearn, collections, string, urllib, wordcloud and other minor python libraries
 
 * 12 hours of work have passed
 * Completely fulfilled points from 1 to 3. Started number 4 but didn't advance much.
